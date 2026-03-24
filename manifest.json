@@ -1,0 +1,9 @@
+json
+{
+  "name": "AlphaScore",
+  "short_name": "AlphaScore",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#22c55e"
+}
