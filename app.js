@@ -1,5 +1,5 @@
 JS
-const API_KEY = "SUA_API_KEY_AQUI";
+ const API_KEY = "f23b74e641msh140cebc05180438p19a0b2jsn66...";
 
 async function loadMatches() {
   const container = document.getElementById("matches");
